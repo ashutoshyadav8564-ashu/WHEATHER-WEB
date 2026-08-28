@@ -2,7 +2,7 @@
 
 A responsive weather dashboard UI built with HTML and CSS. It presents current conditions, hourly forecasts, and a multi-day weather outlook in a clean dark interface.
 
-## Live demo
+## Live demo-  https://ashutoshyadav8564-ashu.github.io/WHEATHER-WEB/
 
 Add the published site URL here after deployment.
 
